@@ -1,0 +1,12 @@
+D:\Research_And_Develoment\Study_folder\Education\Gomoku Game Refactoring\Client\bin\Release\Client.exe.config
+D:\Research_And_Develoment\Study_folder\Education\Gomoku Game Refactoring\Client\bin\Release\Client.exe
+D:\Research_And_Develoment\Study_folder\Education\Gomoku Game Refactoring\Client\bin\Release\Client.pdb
+D:\Research_And_Develoment\Study_folder\Education\Gomoku Game Refactoring\Client\obj\Release\Client.MenuForm.resources
+D:\Research_And_Develoment\Study_folder\Education\Gomoku Game Refactoring\Client\obj\Release\Client.MultiPlayForm.resources
+D:\Research_And_Develoment\Study_folder\Education\Gomoku Game Refactoring\Client\obj\Release\Client.Properties.Resources.resources
+D:\Research_And_Develoment\Study_folder\Education\Gomoku Game Refactoring\Client\obj\Release\Client.SinglePlayForm.resources
+D:\Research_And_Develoment\Study_folder\Education\Gomoku Game Refactoring\Client\obj\Release\Client.csproj.GenerateResource.cache
+D:\Research_And_Develoment\Study_folder\Education\Gomoku Game Refactoring\Client\obj\Release\Client.csproj.CoreCompileInputs.cache
+D:\Research_And_Develoment\Study_folder\Education\Gomoku Game Refactoring\Client\obj\Release\Client.exe
+D:\Research_And_Develoment\Study_folder\Education\Gomoku Game Refactoring\Client\obj\Release\Client.pdb
+D:\Research_And_Develoment\Study_folder\Education\Gomoku Game Refactoring\Client\obj\Release\Client.AIPlayForm.resources
