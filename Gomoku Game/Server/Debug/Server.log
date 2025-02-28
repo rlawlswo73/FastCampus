@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\연구&개발 기록\공부폴더\Education\Gomoku Game\Server\main.cpp(55,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\연구&개발 기록\공부폴더\Education\Gomoku Game\Server\main.cpp(66,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\연구&개발 기록\공부폴더\Education\Gomoku Game\Server\main.cpp(71,11): warning C4552: '-': 식의 결과가 사용되지 않습니다.
+D:\연구&개발 기록\공부폴더\Education\Gomoku Game\Server\main.cpp(83,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\연구&개발 기록\공부폴더\Education\Gomoku Game\Server\main.cpp(94,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\연구&개발 기록\공부폴더\Education\Gomoku Game\Server\main.cpp(115,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\연구&개발 기록\공부폴더\Education\Gomoku Game\Server\main.cpp(163,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Server.vcxproj -> D:\연구&개발 기록\공부폴더\Education\Gomoku Game\Debug\Server.exe
