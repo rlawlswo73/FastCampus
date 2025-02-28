@@ -18,8 +18,13 @@
 *events.out*
 *.zip
 
-*.vcxproj*
-*.cs
+*.vcxproj
+*.resx
+*.csproj
+*.pdb
+*.exe*
+*.sln
+*.tlog
 
 ### Images ###
 # JPEG
